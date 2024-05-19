@@ -34,7 +34,7 @@ UNIQUE_LABELS_FILE_NAME = "unique_labels.pkl"
 
 MODEL_TRAINING_ARTIFACTS_DIR = "ModelTrainingArtifacts"
 LEARNING_RATE = 5e-3
-EPOCHS = 2
+EPOCHS = 3
 BATCH_SIZE = 2
 BERT_MODEL_INSTANCE_NAME = "bert_model_instance.pt"
 TOKENIZER_FILE_NAME = "tokenizer.pkl"
