@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 ner_using_bert.egg-info/
+artifacts/
+logs/
