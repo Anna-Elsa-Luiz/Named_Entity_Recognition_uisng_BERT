@@ -128,7 +128,11 @@ class TrainPipeline:
                 model_training_artifacts=model_trainer_artifact,
                 model_evaluation_config=self.model_evaluation_config,
             )
+ 
 
+            if not model_evaluation_artifact.is_model_accepted:
+                logging.info(f"Model not accepted.")
+                return None
             model_evaluation_artifact = model_evaluation.initiate_model_evaluation()
 
             logging.info(
