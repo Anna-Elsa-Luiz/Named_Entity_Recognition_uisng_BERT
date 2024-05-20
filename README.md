@@ -1,6 +1,8 @@
-![Project Logo](images/project-logo.png)
+
 
 <h1><b>Named Entity Recognition (NER)</b></h1>
+
+![Project Logo](images/project-logo.png)
 
 <p>Named Entity Recognition (NER) is a task of Natural Language Processing (NLP) that involves identifying and classifying named entities in a text into predefined categories such as person names, organizations, locations, and others. The goal of NER is to extract structured information from unstructured text data and represent it in a machine-readable format. Approaches typically use BIO notation, which differentiates the beginning (B) and the inside (I) of entities. O is used for non-entity tokens.</p>
 
@@ -18,6 +20,8 @@ For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <
 
 
 <h2><b>Why BERT for NER?</b></h2>
+![bert Logo](images/bert.jpg)
+
 <ul>
   <li><strong>Efficiency and Effectiveness:</strong> BERT models have significantly improved the efficiency and effectiveness of NLP tasks by enhancing the processing and inference of information in a scalable and consistent manner.</li>
   <li><strong>Contextual Understanding:</strong> Unlike previous models that focused on word-level meanings, BERT models understand context by considering the relationships between words in a sentence, leading to more accurate and context-aware results.</li>
