@@ -47,10 +47,10 @@ For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <
 </ul>
 
 
-<h2>Project Overview : Business Perspective</h2>
+<h2><a href="https://github.com/Anna-Elsa-Luiz/Named_Entity_Recognition_uisng_BERT/blob/main/documents/Project_overview.docx">Project Overview : Business Perspective</a></h2>
 
 
-<h2>Complete Project Setup and Workflow</h2>
+<h2><a href="https://github.com/Anna-Elsa-Luiz/Named_Entity_Recognition_uisng_BERT/blob/main/documents/Project_setup_and_complete_workflow.docx">Complete Project Setup and Workflow</a></h2>
 
 
 <h2>Flowchart</h2>
