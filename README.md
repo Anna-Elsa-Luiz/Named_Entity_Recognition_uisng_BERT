@@ -11,6 +11,7 @@ Refer Jay Alammar blogs : <a href="https://jalammar.github.io/a-visual-guide-to-
 
 Vist  <a href="https://paperswithcode.com/task/named-entity-recognition-ner">Named Entity Recognition Papers with code at paperswithcode</a>
 
+For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <a href="https://tecoholic.github.io/ner-annotator/">Ner Annotator</a>
 
 
 <h2><b>Why BERT for NER?</b></h2>
@@ -24,6 +25,8 @@ Vist  <a href="https://paperswithcode.com/task/named-entity-recognition-ner">Nam
 </ul>
 
 
+<h2><b>Implementation</b></h2>
+
 <ul>
   <li><strong>Data Ingestion:</strong> Utilized Google Cloud Platform (GCP) for data storage and retrieval.</li>
   <li><strong>Data Preprocessing:</strong> Used an already annotated dataset for training and validation.</li>
@@ -34,5 +37,16 @@ Vist  <a href="https://paperswithcode.com/task/named-entity-recognition-ner">Nam
   <li><strong>Monitoring and Logging:</strong> Implemented logging and exception</li>
   <li><strong>Documentation:</strong> Created comprehensive documentation for the project setup, usage, workflow and flowcharts.</li>
 </ul>
+
+
+<h2>Project Overview : Business Perspective</h2>
+
+
+<h2>Complete Project Setup and Workflow</h2>
+
+
+<h2>Flowchart</h2>
+**To be completed** 
+
 
 
