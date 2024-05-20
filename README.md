@@ -20,6 +20,7 @@ For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <
 
 
 <h2><b>Why BERT for NER?</b></h2>
+
 ![bert Logo](images/bert.jpg)
 
 <ul>
