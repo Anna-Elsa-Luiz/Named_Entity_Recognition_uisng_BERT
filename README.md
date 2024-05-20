@@ -4,6 +4,9 @@
 
 <p>In this project, I've utilized <a href="https://huggingface.co/bert-base-cased" target="_blank"><b>Hugging Face’s bert-base-cased model</b></a> for named entity recognition (NER). The bert-base-cased model, part of the Hugging Face transformers library, is a pre-trained language model known for its state-of-the-art performance in various NLP tasks. By fine-tuning this model, we can accurately identify and classify entities in the text, such as names of people, organizations, locations, and more.</p>
 
+Refer Jay Alammar blogs : <a href="https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/">visual guide to using bert for the first time</a>  , <a href="https://jalammar.github.io/illustrated-bert/">illustrated bert</a> 
+
+Vist  <a href="https://paperswithcode.com/task/named-entity-recognition-ner">Named Entity Recognition Papers with code at paperswithcode</a>
 
 
 
@@ -16,3 +19,4 @@
   <li><strong>State-of-the-Art Performance:</strong> BERT-based models have achieved state-of-the-art results across 11 NLP tasks, showcasing their superior performance and capabilities in handling a wide range of NLP applications.</li>
   <li><strong>Multilingual Support:</strong> BERT models are multilingual and can be fine-tuned for any language, making them suitable for diverse linguistic tasks and applications.</li>
 </ul>
+
