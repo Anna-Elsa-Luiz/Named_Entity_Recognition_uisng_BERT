@@ -56,7 +56,7 @@ For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <
 <h2><a href="https://github.com/Anna-Elsa-Luiz/Named_Entity_Recognition_uisng_BERT/blob/main/documents/Git%20commands.docx">Git commands</a></h2>
 
 
-<h2><a href="https://github.com/Anna-Elsa-Luiz/Named_Entity_Recognition_uisng_BERT/blob/main/documents/Project_setup_and_complete_workflow.docx">Flowcharts:In progress</a></h2>
+<h2><a href="https://github.com/Anna-Elsa-Luiz/Named_Entity_Recognition_uisng_BERT/tree/main/flowcharts">Flowcharts:In progress</a></h2>
 
 
 
