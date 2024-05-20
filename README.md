@@ -1,8 +1,11 @@
+![Project Logo](images/project-logo.png)
+
 <h1><b>Named Entity Recognition (NER)</b></h1>
 
 <p>Named Entity Recognition (NER) is a task of Natural Language Processing (NLP) that involves identifying and classifying named entities in a text into predefined categories such as person names, organizations, locations, and others. The goal of NER is to extract structured information from unstructured text data and represent it in a machine-readable format. Approaches typically use BIO notation, which differentiates the beginning (B) and the inside (I) of entities. O is used for non-entity tokens.</p>
 
 <p>NER extracts the meaningfull information from the unstructured data, basically detecting the entities and using the similary measurement we can take decisions</p>
+
 
 
 <p>In this project, I've utilized <a href="https://huggingface.co/bert-base-cased" target="_blank"><b>Hugging Face’s bert-base-cased model</b></a> for named entity recognition (NER). The bert-base-cased model, part of the Hugging Face transformers library, is a pre-trained language model known for its state-of-the-art performance in various NLP tasks. By fine-tuning this model, we can accurately identify and classify entities in the text, such as names of people, organizations, locations, and more.</p>
