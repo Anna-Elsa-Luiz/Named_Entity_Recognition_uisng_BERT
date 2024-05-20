@@ -39,7 +39,7 @@ For Data annotation and labelling : <a href="https://prodi.gy/">Prodigy </a> , <
   <li><strong>Data Ingestion:</strong> Utilized Google Cloud Platform (GCP) for data storage and retrieval.</li>
   <li><strong>Data Preprocessing:</strong> Used an already annotated dataset for training and validation.</li>
   <li><strong>Model Training:</strong> Fine-tuned the bert-base-cased model on the annotated dataset for named entity recognition (NER).</li>
-  <li><strong>Model Evaluation:</strong> Evaluated the fine-tuned model's performance using precision, recall, and F1 score metrics.</li>
+  <li><strong>Model Evaluation:</strong> Evaluated the fine-tuned model's performance.</li>
   <li><strong>Model Deployment:</strong> Deployed the trained model in a production-grade environment using CircleCI for continuous integration and continuous deployment (CI/CD).</li>
   <li><strong>API Development:</strong> Developed a RESTful API using FastAPI to serve the NER model predictions.</li>
   <li><strong>Monitoring and Logging:</strong> Implemented logging and exception</li>
